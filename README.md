@@ -37,7 +37,8 @@ Postman API Testing collection for **Simple Book API** with complete CRUD operat
 
 ### Run Summary
 
-![Test Results](images/test-results.png)
+<img width="1267" height="630" alt="image" src="https://github.com/user-attachments/assets/bcb06726-fd08-47a9-b8c0-9e82f2120f84" />
+
 
 | Metric | Value |
 |--------|-------|
@@ -49,7 +50,8 @@ Postman API Testing collection for **Simple Book API** with complete CRUD operat
 
 ### Endpoint Results
 
-![Endpoint Results](images/endpoint-results.png)
+<img width="1277" height="626" alt="image" src="https://github.com/user-attachments/assets/529d82de-2fe0-4b3a-bf68-587dab9dab74" />
+
 
 | Endpoint | Executed | Failed | Status |
 |----------|----------|--------|--------|
@@ -64,7 +66,8 @@ Postman API Testing collection for **Simple Book API** with complete CRUD operat
 
 ### Performance Dashboard
 
-![Performance Dashboard](images/performance-dashboard.png)
+<img width="1077" height="742" alt="image" src="https://github.com/user-attachments/assets/b71e0625-11ba-427b-b4dd-9ee529354504" />
+
 
 | Metric | Value |
 |--------|-------|
@@ -96,7 +99,7 @@ newman run Simple-Book-API.postman_collection.json \
 
 **All 11 assertions passing** ✨
 
-![Newman Dashboard](images/newman-dashboard.png)
+<img width="1311" height="681" alt="image" src="https://github.com/user-attachments/assets/bf3db701-a495-4751-bfb9-8e1863bad8b9" />
 
 ---
 
@@ -120,12 +123,6 @@ newman run Simple-Book-API.postman_collection.json \
 
 - [Postman](https://www.postman.com/)
 - [Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/) (optional)
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
