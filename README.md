@@ -1,1 +1,1 @@
-# Using-Postman-to-perform-Smoke-Testing-on-Simple-Book-API
+# Using-Postman-to-perform-API-Testing-on-Simple-Book-API
